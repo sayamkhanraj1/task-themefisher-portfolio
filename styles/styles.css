@@ -43,6 +43,27 @@
   height: 100px;
   weight: 100px;
   margin-top: 15px;
+  border: 5px solid #fce2dc;
+  border-radius: 50%;
+}
+.hero-rec-style{
+  position: absolute;
+  right: 0px;
+  top: 125px;
+}
+.hero-rec-style2{
+  position: absolute;
+  left: 0px;
+  top: 250px;
+}
+.hero-section-img::before {
+  content: "";
+  position: absolute;
+  width: 193.58px;
+  height: 16.92px;
+  left: 832px;
+  top: 227px;
+  border: 100px solid #ff5733;
 }
 /* Hero section */
 .hero-text {
