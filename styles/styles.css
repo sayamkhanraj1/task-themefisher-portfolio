@@ -56,6 +56,21 @@
   left: 0px;
   top: 250px;
 }
+.hero-rec-style3{
+  position: absolute;
+  right: 360px;
+  top: 240px;
+}
+.hero-rec-style5{
+  position: absolute;
+  left: 280px;
+  top: 490px;
+}
+.hero-rec-style6{
+  position: absolute;
+  right: 200px;
+  top: 490px;
+}
 .hero-section-img::before {
   content: "";
   position: absolute;
